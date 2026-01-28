@@ -1,0 +1,9 @@
+title: model98765
+x-stoplight:
+  id: k5395vtadxnqa
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 0ye2erhzv0g8x
